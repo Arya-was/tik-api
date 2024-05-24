@@ -149,4 +149,4 @@ function musicaldown(url) {
   });
 }
 
-module.export = { musicaldown };
+module.exports = { musicaldown };
